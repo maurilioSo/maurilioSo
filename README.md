@@ -2,8 +2,8 @@
 
 Entusiasta da programação apaixonado por resolver problemas e criar soluções. Minha jornada abrange desde aplicativos web até automação e aprendizado de máquina. Sempre buscando aprender e compartilhar conhecimentos.
 
-- 🔭 Atualmente trabalho como Analista de Logística
-- 🌱 Estou estudando Análise e Desenvolvimento de Sistemas
+- 🔭 Atualmente trabalho como Analista Administrativo
+- 🌱Analista de Desenvolvimento de Sistemas
 - 😄 Pronouns: ele/dele
 
 <div>
